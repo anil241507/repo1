@@ -1,5 +1,0 @@
-this is git practice test 
-once it is done we will revert it 
-git stash is used when temporarly used to save the file which is worked on by not want to commit
-
-cmd: git stash
